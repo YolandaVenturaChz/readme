@@ -16,7 +16,8 @@
 | El se encarga en poner las tendencias| Se encarga de poner en forma lineal y accesible para el usuario combinando colores estrategicos|
 ![texto](assets/images/cap1.PNG)
 
-# YOU TUBE
+# # Elementos de *UX* y *UI* en *YOU TUBE*
+
 ![texto](assets/images/cap2.PNG)
 
 |   UX         |         UI |
