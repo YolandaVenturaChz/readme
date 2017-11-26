@@ -6,10 +6,10 @@
 |   UX     |     UI |
 | ---------|-------:|
 |Al ingresar a la pagina nos pregunta al inicio |Se encarga de darle color y personalizar los botones     |
-| La Navegación Global  con accesos mas faxtibles para el usuario como una mini imagen de su cuenta  |Los iconos corespondientes, sus colores, formas y la posición de cada una de ellas  |
+| La Navegación Global  con accesos mas faxtibles para el usuario como una mini imagen de su cuenta  |Los iconos corespondientes, sus colores, formas y la posición de cada una de ellas|
 ![texto](assets/images/capture.PNG)
 
-* Tenemos en segundo lugar la parte del body
+# Tenemos en segundo lugar la parte del body
 
 |   UX     |     UI |
 | ---------|-------:|
